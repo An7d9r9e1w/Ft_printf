@@ -1,0 +1,5 @@
+#ifndef LIBFTPRINTF_H
+# define LIBFTPRINTF_H
+
+int		ft_printf(const char *format, ...);
+#endif	/*LIBFTPRINTF_H*/
